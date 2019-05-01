@@ -7,7 +7,7 @@ Sample app with PHP and Apache Kafka
 
 2) Extract downloaded archive in any preferred location
 
-3) Kafka uses ZooKeeper run following command from derictory where downloaded file were extracted.
+3) Kafka uses ZooKeeper, run following command from derictory where downloaded file were extracted.
 ```
 ./bin/windows/zookeeper-server-start.bat ./config/zookeeper.properties
 ```
