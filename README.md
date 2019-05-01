@@ -1,7 +1,7 @@
 # PHP_Apache_Kafka_demo_app
 Sample app with PHP and Apache Kafka
 
-### How To Run App in Windows OS
+### How To Run App on Windows OS
 
 1) Go to Apache Kafka and [download](https://kafka.apache.org/downloads) latest release
 
