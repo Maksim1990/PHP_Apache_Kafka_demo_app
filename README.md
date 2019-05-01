@@ -1,15 +1,6 @@
 # PHP_Apache_Kafka_demo_app
 Sample app with PHP and Apache Kafka
 
-### About Application
-- App is based on PHP 7.2 and Symfony 4 framework
-- DB in develop branch is **MySQL**
-- Full app development is proceeded in **[Laradock](https://laradock.io/)** environment 
-- CI/CD is integrated with **[CircleCI](https://circleci.com/)**
-- Integrated functionality of **import/export** micro blog posts
-
-# CHECK ALSO USEFUL [APP DEMO SCREENS](https://github.com/Maksim1990/Symfony_APP_Twitter/blob/Build_app_guide/public/github/APP_GUIDE.md)
-
 ### How To Run App in Windows OS
 
 1) Go to Apache Kafka and [download](https://kafka.apache.org/downloads) latest release
